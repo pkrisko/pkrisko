@@ -1,10 +1,7 @@
 ## Hey, I'm [Patrick Krisko](https://pkrisko.com) 👋
+Based out of Nashville, TN.<br/>
 
-Nashville, TN
-
-<br>
-
-<img src="typing.svg" alt="Product Engineer" height="22">
+<img src="typing.svg" alt="Product Engineer" height="26">
 
 <br>
 
@@ -13,8 +10,6 @@ Nashville, TN
 <img src="dot-top.svg" width="14" height="30" align="middle"> 🏈 &nbsp;<b><a href="https://underdogfantasy.com">Underdog</a></b> &nbsp;<code>2025–2026</code><br>
 <img src="dot-mid.svg" width="14" height="30" align="middle"> ⏳ &nbsp;<b><a href="https://www.hodinkee.com">Hodinkee</a></b> &nbsp;<code>2021–2025</code><br>
 <img src="dot-bot.svg" width="14" height="30" align="middle"> 🛡️ &nbsp;<b><a href="https://www.asurion.com">Asurion</a></b> &nbsp;<code>2018–2021</code>
-
-<br>
 
 **Stack**
 
