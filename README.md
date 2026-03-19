@@ -1,13 +1,33 @@
 ## Hey, I'm [Patrick Krisko](https://pkrisko.com) 👋
 
-Full-Stack Engineer based in Nashville, TN.
+Nashville, TN<br>
+<img src="typing.svg" alt="Product Engineer" height="22">
 
-### **Where I've been**
+<br>
 
-🏈 **[Underdog](https://underdogfantasy.com)** `2025–2026`<br>
-⌚ **[Hodinkee](https://www.hodinkee.com)** `2021–2025`<br>
-📱 **[Asurion](https://www.asurion.com)** `2018–2021`
+**Career Timeline**
 
-### **Tech I reach for**
+<table>
+<tr>
+  <td>🏈 &nbsp;<b><a href="https://underdogfantasy.com">Underdog</a></b></td>
+  <td><code>2025–2026</code></td>
+</tr>
+<tr>
+  <td>⏳ &nbsp;<b><a href="https://www.hodinkee.com">Hodinkee</a></b></td>
+  <td><code>2021–2025</code></td>
+</tr>
+<tr>
+  <td>🛡️ &nbsp;<b><a href="https://www.asurion.com">Asurion</a></b></td>
+  <td><code>2018–2021</code></td>
+</tr>
+</table>
 
-Ruby · React · Python · Node.js
+<br>
+
+**Stack**
+
+![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white)
+![React](https://img.shields.io/badge/React-58a6ff?style=flat-square&logo=react&logoColor=white)
+![Python](https://img.shields.io/badge/Python-e3b341?style=flat-square&logo=python&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-3fb950?style=flat-square&logo=nodedotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-a5d6ff?style=flat-square&logo=typescript&logoColor=black)

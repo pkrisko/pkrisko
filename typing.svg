@@ -1,0 +1,42 @@
+<svg width="160" height="22" viewBox="0 0 160 22" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .t { fill: #e6edf3; }
+    .c { fill: #58a6ff; }
+    @media (prefers-color-scheme: light) {
+      .t { fill: #24292f; }
+      .c { fill: #0969da; }
+    }
+    @keyframes blink { 50% { opacity: 0; } }
+    .blink { animation: blink 1s step-end infinite; }
+  </style>
+  <defs>
+    <clipPath id="clip">
+      <rect x="0" y="0" height="22" width="0">
+        <animate
+          attributeName="width"
+          calcMode="discrete"
+          values="0;9;18;27;36;45;54;63;72;81;90;99;108;117;126;135;144;135;126;117;108;99;90;81;72;63;54;45;36;27;18;9;0;0"
+          keyTimes="0;0.0167;0.0333;0.05;0.0667;0.0833;0.1;0.1167;0.1333;0.15;0.1667;0.1833;0.2;0.2167;0.2333;0.25;0.2667;0.8;0.8083;0.8167;0.825;0.8333;0.8417;0.85;0.8583;0.8667;0.875;0.8833;0.8917;0.9;0.9083;0.9167;0.925;1"
+          dur="6s"
+          repeatCount="indefinite"/>
+      </rect>
+    </clipPath>
+  </defs>
+  <text
+    class="t"
+    clip-path="url(#clip)"
+    x="0" y="16"
+    font-family="'SFMono-Regular','Consolas','Liberation Mono','Menlo',monospace"
+    font-size="14"
+    textLength="144"
+    lengthAdjust="spacing">Product Engineer</text>
+  <rect class="c blink" x="4" y="3" width="2" height="16">
+    <animate
+      attributeName="x"
+      calcMode="discrete"
+      values="4;13;22;31;40;49;58;67;76;85;94;103;112;121;130;139;148;139;130;121;112;103;94;85;76;67;58;49;40;31;22;13;4;4"
+      keyTimes="0;0.0167;0.0333;0.05;0.0667;0.0833;0.1;0.1167;0.1333;0.15;0.1667;0.1833;0.2;0.2167;0.2333;0.25;0.2667;0.8;0.8083;0.8167;0.825;0.8333;0.8417;0.85;0.8583;0.8667;0.875;0.8833;0.8917;0.9;0.9083;0.9167;0.925;1"
+      dur="6s"
+      repeatCount="indefinite"/>
+  </rect>
+</svg>
