@@ -2,12 +2,12 @@
 
 Full-Stack Engineer based in Nashville, TN.
 
-**Where I've been**
+### **Where I've been**
 
-🏈 **[Underdog](https://underdogfantasy.com)** `2025–2026`
-⌚ **[Hodinkee](https://www.hodinkee.com)** `2021–2025`
+🏈 **[Underdog](https://underdogfantasy.com)** `2025–2026`<br>
+⌚ **[Hodinkee](https://www.hodinkee.com)** `2021–2025`<br>
 📱 **[Asurion](https://www.asurion.com)** `2018–2021`
 
- **Tech I reach for:** 
- 
- Ruby · React · Python · Node.js
+### **Tech I reach for**
+
+Ruby · React · Python · Node.js
