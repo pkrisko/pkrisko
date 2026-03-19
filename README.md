@@ -3,7 +3,6 @@
 Nashville, TN
 
 <br>
-<br>
 
 <img src="typing.svg" alt="Product Engineer" height="22">
 
@@ -11,21 +10,9 @@ Nashville, TN
 
 **Career Timeline**
 
-<table>
-<tr>
-  <td rowspan="3"><img src="timeline.svg" width="14" height="96"></td>
-  <td>🏈 &nbsp;<b><a href="https://underdogfantasy.com">Underdog</a></b></td>
-  <td><code>2025–2026</code></td>
-</tr>
-<tr>
-  <td>⏳ &nbsp;<b><a href="https://www.hodinkee.com">Hodinkee</a></b></td>
-  <td><code>2021–2025</code></td>
-</tr>
-<tr>
-  <td>🛡️ &nbsp;<b><a href="https://www.asurion.com">Asurion</a></b></td>
-  <td><code>2018–2021</code></td>
-</tr>
-</table>
+<img src="dot-top.svg" width="14" height="30" align="middle"> 🏈 &nbsp;<b><a href="https://underdogfantasy.com">Underdog</a></b> &nbsp;<code>2025–2026</code><br>
+<img src="dot-mid.svg" width="14" height="30" align="middle"> ⏳ &nbsp;<b><a href="https://www.hodinkee.com">Hodinkee</a></b> &nbsp;<code>2021–2025</code><br>
+<img src="dot-bot.svg" width="14" height="30" align="middle"> 🛡️ &nbsp;<b><a href="https://www.asurion.com">Asurion</a></b> &nbsp;<code>2018–2021</code>
 
 <br>
 
