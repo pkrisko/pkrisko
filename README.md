@@ -1,6 +1,10 @@
 ## Hey, I'm [Patrick Krisko](https://pkrisko.com) 👋
 
-Nashville, TN<br>
+Nashville, TN
+
+<br>
+<br>
+
 <img src="typing.svg" alt="Product Engineer" height="22">
 
 <br>
@@ -9,6 +13,7 @@ Nashville, TN<br>
 
 <table>
 <tr>
+  <td rowspan="3"><img src="timeline.svg" width="14" height="96"></td>
   <td>🏈 &nbsp;<b><a href="https://underdogfantasy.com">Underdog</a></b></td>
   <td><code>2025–2026</code></td>
 </tr>
