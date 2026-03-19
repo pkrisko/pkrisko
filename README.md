@@ -1,7 +1,7 @@
 ## Hey, I'm [Patrick Krisko](https://pkrisko.com) 👋
-Based out of Nashville, TN.<br/>
 
-<img src="typing.svg" alt="Product Engineer" height="26">
+
+<img src="typing.svg" alt="Product Engineer" height="22">
 
 <br>
 
